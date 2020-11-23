@@ -2,3 +2,5 @@
 .DS_Store
 Settings.py
 __pycache__/
+env/
+secret.key

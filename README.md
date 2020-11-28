@@ -24,14 +24,12 @@ pip install cryptography
 ## Usage
 
 ### Defining Acronyms
-1. Reply to a post on subreddit r/IncorrectAcronym with an acronym that is not in the English dictionary
-2. Run the Bot.py script
+- Reply to a post on subreddit r/IncorrectAcronym with an acronym that is not in the English dictionary
 
 ![Defining](https://i.imgur.com/7wKiuKml.png)
 
 ### Custom Dictionary
-1. Reply to a post with the format of: !Suggest ACRONYM DEFINITION
-2. Run the Bot.py script
+- Reply to a post with the format of: !Suggest ACRONYM DEFINITION
 
 ![Suggest function & Defining](https://i.imgur.com/ZgUdEr4l.png)
 
